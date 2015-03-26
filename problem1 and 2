@@ -28,7 +28,11 @@ function twonumberslarge($arr){
 
 
 //$array=array(-90,-100,-6,0);
+//Sum of array =-196
 //Array(
    // [0] => -6
    // [1] => 0
 //)
+//$arr=array(1,2,30,5,10,2);
+//Sum of array =44
+
